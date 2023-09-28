@@ -1,0 +1,18 @@
+/* google font  */
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;600;700;800&display=swap');
+ body{
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ #img{
+    background-color: rgba(0, 0, 0, 0.90);
+    background-image: url(./images/Rectangle_16-removebg-preview.png);
+     
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 90vh;
+   max-width: auto;
+ }
+
+
+ /* lotus code C L M H landing page done  */
